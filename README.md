@@ -2,8 +2,6 @@
 
 ### :smiley_cat: I am a student at KC College
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Virtual White Board
 - 🌱 I’m currently learning Machine Learning and OpenCV
 - 📫 How to reach me: nairakshay048@gmail.com
