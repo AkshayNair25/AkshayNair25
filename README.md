@@ -1,9 +1,5 @@
 <h1 align="center"> HI <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Akshay+Nair.;Nice+to+meet+you!;&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-
 ### :smiley_cat: I am a student at KC College
 
 - 🔭 I’m currently working on Virtual White Board
