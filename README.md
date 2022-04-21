@@ -2,7 +2,6 @@
 
 ### :smiley_cat: I am a student at KC College
 
-- 🔭 I’m currently working on Virtual White Board
 - 🌱 I’m currently learning Machine Learning and OpenCV
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/akshay-nair-680b411b9/"> Akshay Nair </a>
 - ⚡ Fun fact: I'm very curious by nature.
